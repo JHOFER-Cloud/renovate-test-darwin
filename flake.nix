@@ -7,7 +7,7 @@
     nixpkgs-stable.url = "https://flakehub.com/f/NixOS/nixpkgs/0.2311.559232.tar.gz";
 
     # Flake framework
-    flake-parts.url = "https://flakehub.com/f/hercules-ci/flake-parts/0.1.419.tar.gz";
+    flake-parts.url = "https://flakehub.com/f/hercules-ci/flake-parts/0.1.445.tar.gz";
 
     # nix-darwin
     darwin = {
