@@ -17,7 +17,7 @@
 
     # Home Manager
     home-manager = {
-      url = "https://flakehub.com/f/nix-community/home-manager/0.2511.5835.tar.gz";
+      url = "https://flakehub.com/f/nix-community/home-manager/0.2511.5863.tar.gz";
       inputs.nixpkgs.follows = "nixpkgs";
     };
 
